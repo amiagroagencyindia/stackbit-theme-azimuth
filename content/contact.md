@@ -3,9 +3,10 @@ title: Contact
 layout: contact
 menu:
   main:
-    name: Contact US
+    name: Contact Us
     weight: 5
   secondary:
+    name: Contact Us
     weight: 3
 
 ---
