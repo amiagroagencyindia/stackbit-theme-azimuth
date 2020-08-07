@@ -8,7 +8,7 @@ menu:
   main:
     weight: 3
   secondary:
-    weight: 2
+    weight: 1
 
 ---
 Ami agro agency about us.

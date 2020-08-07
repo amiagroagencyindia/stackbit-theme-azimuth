@@ -5,6 +5,6 @@ menu:
   main:
     weight: 4
   secondary:
-    weight: 3
+    weight: 2
 
 ---
