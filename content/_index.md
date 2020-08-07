@@ -10,13 +10,13 @@ sections:
   actions:
   - label: About Us
     url: "/about"
-- section_id: features
+- section_id: products
   component: features_block.html
   type: featuresblock
   bg: gray
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  title: Products
+  subtitle: Ami agro products categories are plant growth regulators, bio fertilizers
+    and industrial products
   featureslist:
   - title: The Best Feature of Your Services
     image: images/feature1.png
