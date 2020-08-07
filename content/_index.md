@@ -62,11 +62,11 @@ sections:
 - section_id: call-to-action
   component: cta_block.html
   type: ctablock
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Contact us for more information
+  subtitle: ''
   actions:
   - label: Get Started
-    url: "/signup"
+    url: "/contact"
 - section_id: recent-posts
   component: posts_block.html
   type: postsblock
