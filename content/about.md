@@ -6,7 +6,7 @@ img_path: images/about.jpg
 layout: page
 menu:
   secondary:
-    weight: 1
+    weight: 2
 
 ---
 Ami agro agency about us.
