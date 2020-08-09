@@ -15,4 +15,5 @@ fields:
   name: layout
   label: layout
 pages:
+- content/collaboration.md
 - content/corporate.md
