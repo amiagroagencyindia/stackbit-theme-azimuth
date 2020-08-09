@@ -4,7 +4,7 @@ layout: contact
 menu:
   main:
     name: Contact Us
-    weight: 6
+    weight: 7
   secondary:
     name: Contact Us
     weight: 3

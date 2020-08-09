@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Group of companies"
+[menu.main]
+weight = 4
 
 +++
  1. Ami Marketers

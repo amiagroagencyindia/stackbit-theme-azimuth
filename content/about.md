@@ -5,7 +5,7 @@ img_path: images/about.jpg
 layout: page
 menu:
   main:
-    weight: 3
+    weight: 2
   secondary:
     weight: 1
 
