@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Collaboration"
+[menu.main]
+weight = 7
 
 +++
 * Hindalco Industries LTD, Unit Birla Copper - Dahej (Bharuch)
