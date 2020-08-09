@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Corporate"
+[menu.main]
+weight = 4
 
 +++
 ### **Founder**

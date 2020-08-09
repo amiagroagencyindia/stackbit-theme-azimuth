@@ -3,7 +3,7 @@ title: Blog
 layout: blog
 menu:
   main:
-    weight: 4
+    weight: 5
   secondary:
     weight: 2
 
