@@ -6,7 +6,7 @@ title = "Corporate"
 weight = 6
 [[sections]]
 actions = []
-component = ""
+component = "Board of Directors"
 content = ""
 image = ""
 section_id = "directors"
