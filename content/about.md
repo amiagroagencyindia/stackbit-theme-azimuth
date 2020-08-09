@@ -1,7 +1,6 @@
 ---
 title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
+subtitle: ''
 img_path: images/about.jpg
 layout: page
 menu:
@@ -11,4 +10,6 @@ menu:
     weight: 1
 
 ---
-Ami agro agency about us.
+Ami group of companies are leading manufacture and marketer of phosphogypsum, copper slag, fly ash, organic fertilizer, mix-multi micronutrients fertilizers, bio-fertilizers, herbal animal and plant protectors, microbial industrial products, natural plant growth promoter, water-soluble fertilizer and single nutrient fertilizer since 1989.
+
+ 
