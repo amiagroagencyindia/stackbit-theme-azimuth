@@ -2,6 +2,8 @@
 draft = true
 layout = ""
 title = "Corporate"
+[menu.main]
+weight = 6
 [[sections]]
 actions = []
 component = ""
