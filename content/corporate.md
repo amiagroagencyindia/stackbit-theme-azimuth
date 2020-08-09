@@ -1,6 +1,6 @@
 +++
 draft = true
-layout = ""
+layout = "page"
 title = "Corporate"
 [menu.main]
 weight = 6
