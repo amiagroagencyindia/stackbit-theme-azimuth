@@ -64,11 +64,6 @@ sections:
   actions:
   - label: Get Started
     url: "/contact"
-- section_id: recent-posts
-  component: posts_block.html
-  type: postsblock
-  bg: gray
-  title: Latest Posts
 layout: home
 menu:
   main:
