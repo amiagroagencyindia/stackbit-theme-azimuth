@@ -15,30 +15,27 @@ sections:
   type: featuresblock
   bg: gray
   title: Products
-  subtitle: Ami agro products categories are plant growth regulators, bio fertilizers
-    and industrial products
+  subtitle: Ami agro products categories are agricultural products, herbal products and industrial products
   featureslist:
-  - title: The Best Feature of Your Services
+  - title: Agricultural Products
     image: images/feature1.png
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+    content: Bio Fertilizer, Organic Fertilizer, Mix Micronutrient Fertilizer, Phosphate Gypsum, 
+	Water Soluble Fertilizer, Plant Growth Promoter, Single Nutrient Fertilizer
     actions:
-    - label: Learn More
-      url: "/features"
-  - title: Awesome Feature of Your Services
+    - label: Buy Now
+      url: "/products/natural"
+  - title: Herbal Products
     image: images/feature2.png
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+    content: Herbal Plant Protectors, Herbal Animal Protector
     actions:
-    - label: Learn More
-      url: "/features"
-  - title: Cool Feature of Your Services
+    - label: Buy Now
+      url: "/products/herbal"
+  - title: Industrial Products
     image: images/feature3.png
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+    content: Microbial industrial products 
     actions:
-    - label: Learn More
-      url: "/features"
+    - label: Buy Now
+      url: "/products/industrial"
 - section_id: reviews
   component: reviews_block.html
   type: reviewsblock
