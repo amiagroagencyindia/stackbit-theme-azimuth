@@ -20,7 +20,7 @@ sections:
   - title: Agricultural Products
     image: images/feature1.png
     content: Bio Fertilizer, Organic Fertilizer, Mix Micronutrient Fertilizer, Phosphate Gypsum, 
-	Water Soluble Fertilizer, Plant Growth Promoter, Single Nutrient Fertilizer
+      Water Soluble Fertilizer, Plant Growth Promoter, Single Nutrient Fertilizer
     actions:
     - label: Buy Now
       url: "/products/natural"
