@@ -15,12 +15,13 @@ sections:
   type: featuresblock
   bg: gray
   title: Products
-  subtitle: Ami agro products categories are agricultural products, herbal products and industrial products
+  subtitle: Ami agro products categories are agricultural products, herbal products
+    and industrial products
   featureslist:
   - title: Agricultural Products
     image: images/feature1.png
-    content: Bio Fertilizer, Organic Fertilizer, Mix Micronutrient Fertilizer, Phosphate Gypsum, 
-      Water Soluble Fertilizer, Plant Growth Promoter, Single Nutrient Fertilizer
+    content: Bio Fertilizer, Organic Fertilizer, Mix Micronutrient Fertilizer, Phosphate
+      Gypsum, Water Soluble Fertilizer, Plant Growth Promoter, Single Nutrient Fertilizer
     actions:
     - label: Buy Now
       url: "/products/natural"
@@ -32,7 +33,7 @@ sections:
       url: "/products/herbal"
   - title: Industrial Products
     image: images/feature3.png
-    content: Microbial industrial products 
+    content: Microbial industrial products
     actions:
     - label: Buy Now
       url: "/products/industrial"

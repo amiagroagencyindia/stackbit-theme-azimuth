@@ -7,7 +7,7 @@ title = "Group of companies"
 weight = 4
 
 +++
- 1. Ami Marketers
+1. Ami Marketers
  2. Ami Agro Agency
  3. Shakti Veer Agri BioTech Industries
  4. Shree Rang Agro Marketing

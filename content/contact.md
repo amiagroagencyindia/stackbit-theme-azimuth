@@ -4,10 +4,10 @@ layout: contact
 menu:
   main:
     name: Contact Us
-    weight: 6
+    weight: 7
   secondary:
     name: Contact Us
-    weight: 3
+    weight: 2
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
