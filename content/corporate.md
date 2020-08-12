@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Corporate"
 [menu.main]
-weight = 5
+weight = 4
 
 +++
 ### **Founder**
