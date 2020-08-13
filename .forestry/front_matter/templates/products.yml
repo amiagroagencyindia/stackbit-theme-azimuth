@@ -1,4 +1,25 @@
 ---
 label: products
 hide_body: true
-fields: []
+fields:
+- name: agricultural_products
+  type: blocks
+  label: Agricultural products
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: herbal_products
+  type: blocks
+  label: Herbal products
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: industrial_products
+  type: blocks
+  label: Industrial products
+  template_types: []
+  config:
+    min: 
+    max: 
