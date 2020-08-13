@@ -7,26 +7,7 @@ title = "Products"
 weight = 7
 
 +++
-
-<body>
-<section class="new-product-area section-padding30">
-<div class="container">
-<!-- Section tittle -->
-<div class="row">
-<div class="col-xl-12">
-<div class="section-tittle mb-70">
-<h2>Products</h2>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-<div class="single-new-pro mb-30 text-center">
-<div class="product-img">
-<img src="assets/img/gallery/new_product1.png" alt="">
-</div>
-<div class="product-caption">
-<h3><a href="product_details.html">Thermo Ball Etip Gloves</a>_/h3>
+<div class="container"> <!-- Section tittle --> <div class="row"> <div class="col-xl-12"> <div class="section-tittle mb-70"> <h2>Products</h2> </div> </div> </div> <div class="row"> <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6"> <div class="single-new-pro mb-30 text-center"> <div class="product-img"> <img src="assets/img/gallery/new_product1.png" alt=""> </div> <div class="product-caption"> <h3><a href="product_details.html">Thermo B_ll Etip Gloves</a>/h3>
 <span>$ 45,743</span>
 </div>
 </div>
@@ -55,5 +36,4 @@ weight = 7
 </div>
 </div>
 </div>
-</section>
-</body_>
+_
