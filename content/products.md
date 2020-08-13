@@ -7,6 +7,8 @@ title = "Products"
 weight = 7
 
 +++
+<html>
+<body>
 	<section class="new-product-area section-padding30">
 			            <div class="container">
 			                <!-- Section tittle -->
@@ -54,3 +56,5 @@ weight = 7
 	        </div>
 	    </div>
 	</section>
+</body>
+</html>
