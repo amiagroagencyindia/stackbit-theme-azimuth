@@ -1,5 +1,4 @@
 +++
-draft = true
 [menu.main]
 name = "Products"
 weight = 7
