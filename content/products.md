@@ -1,6 +1,6 @@
 +++
 img_path = ""
-layout = "post"
+layout = "products"
 subtitle = ""
 title = "Products"
 [menu.main]
