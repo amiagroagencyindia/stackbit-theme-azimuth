@@ -1,5 +1,8 @@
 +++
 draft = true
+[menu.main]
+name = "Products"
+weight = 7
 [[agricultural_products]]
 agricultural_products = []
 herbal_products = []
