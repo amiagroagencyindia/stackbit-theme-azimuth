@@ -5,7 +5,7 @@ title = "Products"
 weight = 7
 [[sections]]
 actions = []
-component = ""
+component = "products.html"
 content = ""
 image = ""
 section_id = "category2"
