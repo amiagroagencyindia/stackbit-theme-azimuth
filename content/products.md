@@ -1,5 +1,5 @@
 +++
-layout = "products"
+layout = "page"
 title = "Products"
 [menu.main]
 weight = 7
