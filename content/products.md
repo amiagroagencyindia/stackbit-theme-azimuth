@@ -4,13 +4,15 @@ title = "Products"
 [menu.main]
 weight = 7
 [[sections]]
-actions = []
 component = "features_block.html"
 content = "category "
 image = ""
 section_id = "category2"
 title = "Products"
 type = "featuresblock"
+[[sections.actions]]
+label = "category1"
+url = ""
 [[sections]]
 actions = []
 component = ""
