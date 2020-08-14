@@ -1,6 +1,8 @@
 +++
 layout = "products"
 title = "Products"
+[menu.main]
+weight = 7
 [[sections]]
 actions = []
 component = ""
