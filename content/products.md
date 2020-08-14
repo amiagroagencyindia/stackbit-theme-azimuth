@@ -1,6 +1,6 @@
 +++
 draft = true
-layout = ""
+layout = "products"
 title = "Products"
 [[sections]]
 actions = []
