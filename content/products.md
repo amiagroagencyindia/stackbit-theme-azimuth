@@ -5,12 +5,12 @@ title = "Products"
 weight = 7
 [[sections]]
 actions = []
-component = "products.html"
-content = ""
+component = "features_block.html"
+content = "category "
 image = ""
 section_id = "category2"
-title = ""
-type = "heroblock"
+title = "Products"
+type = "featuresblock"
 [[sections]]
 actions = []
 component = ""
