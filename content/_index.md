@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+- section_id: products
+  component: ''
+  type: products
+  image: ''
+  title: ''
+  content: ''
+  actions: ''
 - section_id: home
   component: hero_block.html
   type: heroblock
