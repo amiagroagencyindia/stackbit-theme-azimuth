@@ -10,7 +10,7 @@ content = ""
 image = ""
 section_id = "category2"
 title = ""
-type = "products"
+type = "heroblock"
 [[sections]]
 actions = []
 component = ""
