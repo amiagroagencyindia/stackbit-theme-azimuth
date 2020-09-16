@@ -14,10 +14,10 @@ params:
     nav_title: Company
     has_social: true
     social_title: Community
-    content: "&copy; Stackbit. All rights reserved."
+    content: "&copy; Ami Agro Agency. All rights reserved."
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: Made with Ami Agro Agency
+      url: http://www.amiagrogroup.com
       new_window: true
 disableKinds:
 - RSS

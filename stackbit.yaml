@@ -9,10 +9,10 @@ dataDir: data
 pagesDir: content
 pageLayoutKey: layout
 metadata:
-  title: Azimuth
-  description: A sleek SaaS theme
+  title: Ami Agro Agency
+  description: Ami agro agency is a pioneer in the agriculture industry since 1998.
   author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  authorURL: 'http://www.amiagrogroup.com'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
