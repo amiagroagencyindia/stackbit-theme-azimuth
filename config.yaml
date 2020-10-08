@@ -1,5 +1,5 @@
 ---
-title: Stackbit Azimuth Theme
+title: Ami Agro Agency
 baseURL: "/"
 params:
   palette: blue
@@ -9,7 +9,7 @@ params:
     has_nav: true
   footer:
     logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
+    tagline: Ami Agro Agency
     has_nav: true
     nav_title: Company
     has_social: true

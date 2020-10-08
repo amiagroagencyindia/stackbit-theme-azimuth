@@ -6,7 +6,7 @@ sections:
   type: heroblock
   image: images/hero.png
   title: Welcome to Ami Group of Companies
-  content: Ami agro agency is a pioneer in the agriculture industry since 1998.
+  content: Ami agro agency is a pioneer in the agriculture industry since 1989.
   actions:
   - label: About Us
     url: "/about"
