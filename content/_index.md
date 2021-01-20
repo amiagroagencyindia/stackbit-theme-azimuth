@@ -44,19 +44,18 @@ sections:
   title: Testimonials
   subtitle: What people says about us
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: Dhavalbhai, Mahesana-Gujarat
+#    avatar: images/review1.jpg
+    content: I purchased bio fertilizers for my farms and it worked very well. I can see 3X blooming in my farming. 
+      Plants seem to love it. Before this, I always ended up killing some plants with other liquid, chemical-based fertilizers.
+  - author: Amrutbhai, Surat-Gujarat
+#    avatar: images/review2.jpg
+    content: I have used Ami Agro products for increase production yield in my farm. 
+      I used many products like ami npk, ami sanjivanee for regular usage in my farm and they are showing me very good results.
+  - author: Ranchodlal, Ahmedabad
+#    avatar: images/review3.jpg
+    content: I have done two round of fertilizing with Ami agro. The instructions were easy, the product was easy to use. 
+      Recommend to others for increse farm productions.
 - section_id: call-to-action
   component: cta_block.html
   type: ctablock
